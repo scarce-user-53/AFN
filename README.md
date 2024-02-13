@@ -3,7 +3,7 @@
 This is the official implementation of Explainable and Interpretable Forecasts on Non-Smooth Multivariate Time Series for Responsible Gameplay  _(under review at KDD 2024)_.
 
 <img 
-    src="img\AFN_architecture.png" 
+    src="img\AFN_architecture.jpg" 
     alt="AFN Architecture" 
     style="height:400; margin-left:auto; margin-right:auto; display:block" 
 />
